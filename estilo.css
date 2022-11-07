@@ -1,0 +1,54 @@
+
+h2{
+    color:white;
+    text-align: center;
+    font-size:30px;
+    font-family: 'open sans';
+    background:linear-gradient(93.81deg, #e9831d 4.58%, rgba(206, 97, 7, 0.642) 82.71%),
+    linear-gradient(93.66deg, #ca710b 4.58%, rgba(180, 93, 12, 0.562) 100.98%);
+
+}
+
+#Vermelho{
+    color:white;
+    text-align: center;
+    font-size:30px;
+    font-family: 'open sans';
+    background:linear-gradient(93.66deg, #F14038 0%, #9c364c 100.96%),
+    linear-gradient(93.81deg, #F14038 4.58%, #cd2449 82.71%);
+    
+}
+
+
+body{
+    background-color: black;
+}
+
+
+li{
+    list-style:none;
+    color: white;
+    
+}
+
+.ac_box { 
+    
+    width: 300px;
+    height: 350px;
+    background: #444444;
+}
+
+
+.ca_box { 
+    
+    width: 300px;
+    height: 350px;
+    background: #444444;
+    
+}
+
+#Impactos{
+ display: flex;
+ justify-content: space-evenly;
+}
+
